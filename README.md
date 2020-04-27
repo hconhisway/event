@@ -1,1 +1,3 @@
-# event
+# competitionEventManager
+# competitionEventManager
+# competitionEventManager
